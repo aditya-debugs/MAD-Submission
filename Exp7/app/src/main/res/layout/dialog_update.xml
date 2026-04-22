@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="Name"
+        android:textColor="#546E7A"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/dialogEtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="14dp"
+        android:background="#F5F7F8"
+        android:inputType="textPersonName"
+        android:padding="10dp"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="Roll Number"
+        android:textColor="#546E7A"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/dialogEtRoll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="14dp"
+        android:background="#F5F7F8"
+        android:inputType="textCapCharacters"
+        android:padding="10dp"
+        android:textSize="14sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:text="Branch"
+        android:textColor="#546E7A"
+        android:textSize="12sp" />
+
+    <EditText
+        android:id="@+id/dialogEtBranch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F5F7F8"
+        android:inputType="textCapSentences"
+        android:padding="10dp"
+        android:textSize="14sp" />
+
+</LinearLayout>
+

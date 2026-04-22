@@ -1,0 +1,35 @@
+# Android build outputs
+**/build/
+**/.gradle/
+**/local.properties
+
+# Android Studio / IntelliJ IDEA files
+**/.idea/
+**/*.iml
+**/*.iws
+**/*.ipr
+
+# Gradle wrapper (keep .properties but skip the binary jar)
+**/gradle/wrapper/gradle-wrapper.jar
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Keystore / secrets (never commit these)
+*.jks
+*.keystore
+
+# Firebase config — contains API keys, never commit
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Compiled class files
+*.class
+
+# Kotlin compiler error logs
+**/.kotlin/
+
+# Log files
+*.log

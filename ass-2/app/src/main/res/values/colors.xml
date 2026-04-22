@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Material 3 Light Theme Colors -->
+    <color name="md_theme_light_primary">#006495</color>
+    <color name="md_theme_light_on_primary">#FFFFFF</color>
+    <color name="md_theme_light_primary_container">#D0E4FF</color>
+    <color name="md_theme_light_on_primary_container">#001D3B</color>
+    <color name="md_theme_light_secondary">#546E7A</color>
+    <color name="md_theme_light_on_secondary">#FFFFFF</color>
+    <color name="md_theme_light_secondary_container">#D7E8F2</color>
+    <color name="md_theme_light_on_secondary_container">#0E1B25</color>
+    <color name="md_theme_light_tertiary">#2E8B57</color>
+    <color name="md_theme_light_on_tertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiary_container">#B3F5A0</color>
+    <color name="md_theme_light_on_tertiary_container">#002204</color>
+    <color name="md_theme_light_error">#B3261E</color>
+    <color name="md_theme_light_error_container">#F9DEDC</color>
+    <color name="md_theme_light_on_error">#FFFFFF</color>
+    <color name="md_theme_light_on_error_container">#410E0B</color>
+    <color name="md_theme_light_background">#FFFBFE</color>
+    <color name="md_theme_light_on_background">#1C1B1F</color>
+    <color name="md_theme_light_surface">#FFFBFE</color>
+    <color name="md_theme_light_on_surface">#1C1B1F</color>
+    <color name="md_theme_light_surface_variant">#E7E0EC</color>
+    <color name="md_theme_light_on_surface_variant">#49454E</color>
+    <color name="md_theme_light_outline">#79747E</color>
+    <color name="md_theme_light_inverse_surface">#313033</color>
+    <color name="md_theme_light_inverse_on_surface">#F4EFF4</color>
+    <color name="md_theme_light_inverse_primary">#B6DAFF</color>
+</resources>

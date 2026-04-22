@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Force light appearance even in night configuration to match the sample UI. -->
+    <style name="Base.Theme.Exp4" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize if needed. -->
+    </style>
+</resources>

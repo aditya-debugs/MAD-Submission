@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">madass2</string>
+
+    <!-- Button Labels -->
+    <string name="btn_periodic_task">Start Periodic Task (WorkManager)</string>
+    <string name="btn_foreground_service">Start Foreground Service</string>
+    <string name="btn_one_time_task">Trigger One-Time Task</string>
+    <string name="btn_stop_service">Stop Foreground Service</string>
+
+    <!-- UI Labels -->
+    <string name="title_background_tasks">Background Tasks &amp; Notifications</string>
+    <string name="subtitle_tasks">Manage periodic and continuous background tasks</string>
+    <string name="subtitle_notifications">Notification preferences</string>
+    <string name="label_periodic_interval">Periodic Task Interval (15 min)</string>
+    <string name="label_foreground_service">Foreground Service</string>
+    <string name="label_notifications">Notifications</string>
+
+    <!-- Notification Messages -->
+    <string name="notification_periodic_task">Periodic task executed</string>
+    <string name="notification_data_sync">Data synced successfully</string>
+    <string name="notification_foreground_service">Background service running</string>
+    <string name="notification_reminder">Reminder notification</string>
+    <string name="notification_update">Update available</string>
+
+    <!-- Channel Names -->
+    <string name="channel_background_tasks">Background Tasks</string>
+    <string name="channel_foreground_service">Foreground Service</string>
+    <string name="channel_reminders">Reminders</string>
+
+    <!-- Toast Messages -->
+    <string name="msg_permission_granted">Permission granted</string>
+    <string name="msg_permission_denied">Permission denied</string>
+    <string name="msg_task_scheduled">Task scheduled</string>
+    <string name="msg_service_started">Service started</string>
+    <string name="msg_service_stopped">Service stopped</string>
+</resources>

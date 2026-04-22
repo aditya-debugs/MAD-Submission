@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exp7</string>
+    <string name="sensor_title">Accelerometer Sensor</string>
+    <string name="sensor_waiting">Waiting for sensor data...</string>
+    <string name="movement_default">Move the device to detect motion.</string>
+    <string name="accelerometer_values">X: %.2f  Y: %.2f  Z: %.2f</string>
+    <string name="movement_detected">Movement detected</string>
+    <string name="device_stable">Device is stable</string>
+    <string name="pick_media">Pick Image/Video</string>
+    <string name="media_preview">Selected media preview</string>
+    <string name="no_media_selected">No media selected</string>
+    <string name="sensor_not_available">Accelerometer not available on this device</string>
+</resources>

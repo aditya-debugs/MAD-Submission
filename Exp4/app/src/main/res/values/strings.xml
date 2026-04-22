@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exp4</string>
+
+    <string name="title_action">Perform an action</string>
+
+    <string name="btn_click_me">Click Me</string>
+    <string name="btn_long_press">Long Press</string>
+    <string name="btn_swipe_action">Swipe Action</string>
+
+    <string name="msg_click_me_clicked">Click Me button clicked</string>
+    <string name="msg_long_press_detected">Long press detected</string>
+    <string name="msg_swipe_action_clicked">Swipe Action button clicked</string>
+    <string name="msg_swipe_right">→ Swipe Right</string>
+    <string name="msg_swipe_left">← Swipe Left</string>
+</resources>
